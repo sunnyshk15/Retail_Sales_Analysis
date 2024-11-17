@@ -1,0 +1,101 @@
+Order ID,Order Date,Customer ID,Customer Name,Region,Category,Product Name,Quantity Sold,Sales Amount,Discount,Profit
+ORD0001,03-05-2024,CUST1121,Customer 1,Mumbai,Grocery,Bread,7,572.53,0.02,61.77
+ORD0002,08-08-2024,CUST7993,Customer 2,Bhavnagar,Sports,Tennis Racket,4,188.17,0.17,52.44
+ORD0003,01-08-2024,CUST7996,Customer 3,Ahmedabad,Sports,Basketball,2,62.85,0.28,7.84
+ORD0004,17-05-2024,CUST2826,Customer 4,Ahmedabad,Clothing,Shoes,10,94.13,0.11,23.68
+ORD0005,17-09-2024,CUST2945,Customer 5,Ahmedabad,Clothing,Jacket,1,71.38,0.21,19.81
+ORD0006,24-04-2024,CUST9419,Customer 6,Bhavnagar,Clothing,Jeans,3,45.87,0.28,7.46
+ORD0007,08-07-2024,CUST8049,Customer 7,Ahmedabad,Grocery,Eggs,5,137.07,0.06,24.22
+ORD0008,22-09-2024,CUST1879,Customer 8,Bhavnagar,Sports,Bicycle,2,17.49,0.15,5.24
+ORD0009,18-07-2024,CUST7208,Customer 9,Ahmedabad,Clothing,Jeans,6,271.44,0.28,44.17
+ORD0010,29-07-2024,CUST3274,Customer 10,Mumbai,Grocery,Vegetables,2,123.22,0.27,15.17
+ORD0011,18-09-2024,CUST7930,Customer 11,Bhavnagar,Clothing,Hat,7,221.93,0.05,61.9
+ORD0012,23-09-2024,CUST9453,Customer 12,Surat,Electronics,Smartphone,5,213.94,0.2,27.11
+ORD0013,16-05-2024,CUST7863,Customer 13,Bhavnagar,Home & Kitchen,Toaster,9,225.06,0.24,40.42
+ORD0014,16-07-2024,CUST3502,Customer 14,Mumbai,Grocery,Eggs,10,770.33,0.12,229.83
+ORD0015,26-07-2024,CUST9941,Customer 15,Ahmedabad,Sports,Yoga Mat,3,195.51,0.26,27.98
+ORD0016,26-06-2024,CUST7842,Customer 16,Surat,Sports,Tennis Racket,9,246.39,0.24,31.37
+ORD0017,29-04-2024,CUST7206,Customer 17,Ahmedabad,Clothing,Jacket,8,371.18,0.29,86.69
+ORD0018,10-06-2024,CUST7374,Customer 18,Bhavnagar,Home & Kitchen,Cookware,2,36.64,0.17,6.81
+ORD0019,17-04-2024,CUST5800,Customer 19,Mumbai,Electronics,Headphones,5,165.01,0.24,43.33
+ORD0020,27-08-2024,CUST2692,Customer 20,Ahmedabad,Electronics,Headphones,2,137.17,0.02,16.12
+ORD0021,26-04-2024,CUST3025,Customer 21,Surat,Home & Kitchen,Vacuum Cleaner,3,180.44,0.1,44.48
+ORD0022,05-10-2024,CUST3959,Customer 22,Bhavnagar,Electronics,Camera,1,20.86,0.1,5.02
+ORD0023,16-07-2024,CUST6481,Customer 23,Bhavnagar,Electronics,Headphones,7,285.54,0.08,36.9
+ORD0024,25-09-2024,CUST6453,Customer 24,Mumbai,Home & Kitchen,Cookware,5,270.41,0.07,37.65
+ORD0025,17-09-2024,CUST4019,Customer 25,Ahmedabad,Electronics,Laptop,8,493.92,0.22,77.41
+ORD0026,19-06-2024,CUST5472,Customer 26,Bhavnagar,Clothing,Jeans,5,389.6,0.11,78.23
+ORD0027,20-04-2024,CUST5335,Customer 27,Mumbai,Home & Kitchen,Cookware,1,8.5,0.21,2.08
+ORD0028,12-09-2024,CUST6070,Customer 28,Surat,Electronics,Laptop,2,25.91,0.22,5.44
+ORD0029,21-08-2024,CUST6796,Customer 29,Ahmedabad,Home & Kitchen,Toaster,7,459.16,0.26,73.95
+ORD0030,17-06-2024,CUST3688,Customer 30,Bhavnagar,Sports,Basketball,4,241.81,0.1,63.93
+ORD0031,04-09-2024,CUST8266,Customer 31,Surat,Sports,Football,2,129.62,0.24,36.96
+ORD0032,13-06-2024,CUST9199,Customer 32,Bhavnagar,Electronics,Laptop,4,81.43,0.05,12.47
+ORD0033,19-09-2024,CUST8924,Customer 33,Bhavnagar,Home & Kitchen,Blender,3,74.64,0.17,16.16
+ORD0034,22-08-2024,CUST5096,Customer 34,Mumbai,Electronics,Laptop,5,354.48,0.03,54.44
+ORD0035,16-08-2024,CUST4774,Customer 35,Bhavnagar,Grocery,Fruits,8,141.54,0.18,17.74
+ORD0036,26-04-2024,CUST7616,Customer 36,Mumbai,Sports,Yoga Mat,8,559.67,0.14,110.68
+ORD0037,11-08-2024,CUST7040,Customer 37,Mumbai,Electronics,Smartphone,6,387.26,0.27,91.06
+ORD0038,11-09-2024,CUST4269,Customer 38,Surat,Electronics,Smartphone,8,455.07,0.19,79.26
+ORD0039,21-09-2024,CUST4251,Customer 39,Bhavnagar,Electronics,Laptop,6,525.32,0.03,67.12
+ORD0040,30-04-2024,CUST8499,Customer 40,Bhavnagar,Grocery,Milk,1,71.07,0.13,16.7
+ORD0041,07-10-2024,CUST7522,Customer 41,Bhavnagar,Electronics,Headphones,9,526.16,0.15,86.85
+ORD0042,09-05-2024,CUST9270,Customer 42,Surat,Grocery,Eggs,3,255.47,0.12,33.51
+ORD0043,28-06-2024,CUST2414,Customer 43,Surat,Sports,Tennis Racket,6,271.23,0.15,70.58
+ORD0044,08-09-2024,CUST8987,Customer 44,Ahmedabad,Home & Kitchen,Cookware,7,167.16,0.27,31.39
+ORD0045,10-06-2024,CUST5320,Customer 45,Bhavnagar,Home & Kitchen,Vacuum Cleaner,7,488.98,0.19,77.14
+ORD0046,29-05-2024,CUST1138,Customer 46,Ahmedabad,Grocery,Bread,3,117.51,0.03,15.16
+ORD0047,19-07-2024,CUST7061,Customer 47,Bhavnagar,Grocery,Vegetables,8,644.18,0.13,148.85
+ORD0048,08-09-2024,CUST2056,Customer 48,Mumbai,Electronics,Tablet,3,102.82,0.2,23.5
+ORD0049,09-09-2024,CUST7763,Customer 49,Bhavnagar,Clothing,Hat,5,241.19,0.25,47.26
+ORD0050,06-06-2024,CUST4838,Customer 50,Bhavnagar,Grocery,Fruits,4,47.48,0.11,9.9
+ORD0051,11-04-2024,CUST1714,Customer 51,Mumbai,Clothing,Shoes,6,259.86,0.04,60.67
+ORD0052,09-08-2024,CUST3853,Customer 52,Ahmedabad,Sports,Football,2,61.03,0.09,8.05
+ORD0053,04-10-2024,CUST9281,Customer 53,Ahmedabad,Grocery,Fruits,10,364.16,0.08,82.06
+ORD0054,16-06-2024,CUST8182,Customer 54,Ahmedabad,Sports,Basketball,1,57.73,0.17,10.7
+ORD0055,04-06-2024,CUST5823,Customer 55,Surat,Grocery,Fruits,9,569.99,0.22,90.09
+ORD0056,06-05-2024,CUST6643,Customer 56,Bhavnagar,Grocery,Fruits,1,42.66,0.08,9.53
+ORD0057,04-07-2024,CUST2789,Customer 57,Bhavnagar,Clothing,Shirt,8,156.57,0.2,34.68
+ORD0058,22-09-2024,CUST1596,Customer 58,Mumbai,Electronics,Laptop,9,396.27,0.27,87.99
+ORD0059,17-09-2024,CUST1644,Customer 59,Surat,Clothing,Jeans,1,45.57,0.1,10.48
+ORD0060,30-09-2024,CUST1415,Customer 60,Ahmedabad,Home & Kitchen,Microwave,1,31.05,0.06,3.51
+ORD0061,04-09-2024,CUST6666,Customer 61,Surat,Sports,Football,5,115.14,0.13,23.52
+ORD0062,24-04-2024,CUST1056,Customer 62,Bhavnagar,Grocery,Bread,4,193.03,0.04,48.49
+ORD0063,21-04-2024,CUST5830,Customer 63,Mumbai,Sports,Yoga Mat,2,97.94,0.13,19.07
+ORD0064,04-10-2024,CUST2029,Customer 64,Ahmedabad,Home & Kitchen,Toaster,5,271.29,0.26,53.29
+ORD0065,11-04-2024,CUST9373,Customer 65,Ahmedabad,Electronics,Tablet,1,72.34,0.04,21.05
+ORD0066,08-05-2024,CUST8170,Customer 66,Ahmedabad,Grocery,Eggs,9,364.74,0.07,68.49
+ORD0067,04-07-2024,CUST3959,Customer 67,Bhavnagar,Grocery,Eggs,7,66.07,0.15,10.43
+ORD0068,06-09-2024,CUST3981,Customer 68,Bhavnagar,Grocery,Vegetables,2,183.4,0.01,44.65
+ORD0069,10-07-2024,CUST6755,Customer 69,Ahmedabad,Grocery,Fruits,8,246.24,0.08,63.41
+ORD0070,06-09-2024,CUST8366,Customer 70,Bhavnagar,Sports,Football,7,506.47,0.08,68.19
+ORD0071,01-06-2024,CUST7227,Customer 71,Mumbai,Electronics,Camera,1,43.68,0.09,11.45
+ORD0072,20-06-2024,CUST1854,Customer 72,Mumbai,Sports,Basketball,5,342.05,0.14,63.9
+ORD0073,24-07-2024,CUST3791,Customer 73,Mumbai,Electronics,Headphones,8,128,0.21,32.29
+ORD0074,31-05-2024,CUST3441,Customer 74,Mumbai,Electronics,Laptop,7,108.42,0.01,20.05
+ORD0075,30-07-2024,CUST5241,Customer 75,Bhavnagar,Grocery,Milk,10,288.97,0.12,67.59
+ORD0076,11-09-2024,CUST7138,Customer 76,Ahmedabad,Clothing,Shoes,4,271.29,0.23,35.7
+ORD0077,29-04-2024,CUST4553,Customer 77,Ahmedabad,Home & Kitchen,Vacuum Cleaner,5,348,0.25,57.07
+ORD0078,01-07-2024,CUST8198,Customer 78,Ahmedabad,Sports,Bicycle,6,214.43,0.13,31.06
+ORD0079,31-05-2024,CUST9889,Customer 79,Bhavnagar,Grocery,Bread,2,127.53,0.25,25.05
+ORD0080,24-06-2024,CUST7966,Customer 80,Mumbai,Electronics,Smartphone,6,250.7,0.22,67.93
+ORD0081,10-09-2024,CUST1737,Customer 81,Mumbai,Sports,Bicycle,10,491.27,0.1,102.84
+ORD0082,18-07-2024,CUST6862,Customer 82,Bhavnagar,Sports,Yoga Mat,5,367.12,0.11,63.04
+ORD0083,24-09-2024,CUST4873,Customer 83,Surat,Electronics,Laptop,9,199.35,0.18,26.99
+ORD0084,06-08-2024,CUST6719,Customer 84,Surat,Electronics,Laptop,7,502.83,0.06,128.58
+ORD0085,14-05-2024,CUST4116,Customer 85,Mumbai,Electronics,Laptop,3,235.05,0.05,37.95
+ORD0086,25-05-2024,CUST8571,Customer 86,Mumbai,Clothing,Shirt,5,51.31,0.21,6.73
+ORD0087,20-06-2024,CUST5987,Customer 87,Mumbai,Sports,Yoga Mat,9,504.04,0.05,62.89
+ORD0088,05-10-2024,CUST9413,Customer 88,Mumbai,Clothing,Shoes,9,611.34,0.13,116.37
+ORD0089,21-07-2024,CUST6004,Customer 89,Bhavnagar,Sports,Bicycle,8,389.83,0.19,56.58
+ORD0090,01-06-2024,CUST3054,Customer 90,Ahmedabad,Clothing,Hat,5,84.98,0.21,19.7
+ORD0091,23-07-2024,CUST1846,Customer 91,Ahmedabad,Clothing,Jacket,4,282.84,0.04,32.06
+ORD0092,16-04-2024,CUST2587,Customer 92,Bhavnagar,Electronics,Laptop,10,577.22,0.21,151.8
+ORD0093,01-10-2024,CUST7026,Customer 93,Ahmedabad,Clothing,Shoes,4,38.98,0.17,9.57
+ORD0094,10-09-2024,CUST5387,Customer 94,Bhavnagar,Sports,Football,9,327.32,0.09,70.6
+ORD0095,29-05-2024,CUST6895,Customer 95,Ahmedabad,Sports,Yoga Mat,2,142.51,0.08,31.05
+ORD0096,25-08-2024,CUST3221,Customer 96,Surat,Home & Kitchen,Cookware,3,246.76,0.02,57.23
+ORD0097,01-10-2024,CUST2559,Customer 97,Surat,Electronics,Tablet,9,681.78,0.19,108.55
+ORD0098,18-05-2024,CUST7183,Customer 98,Ahmedabad,Sports,Yoga Mat,10,719.54,0.18,123.07
+ORD0099,05-06-2024,CUST7037,Customer 99,Mumbai,Electronics,Laptop,1,36.4,0.25,4.72
+ORD0100,07-10-2024,CUST9093,Customer 100,Bhavnagar,Clothing,Shoes,3,35.94,0.16,9.78
